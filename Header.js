@@ -4,7 +4,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>My Header Component</h1>
+      <h1>NO FUCKING WAY</h1>
     </header>
   );
 };
