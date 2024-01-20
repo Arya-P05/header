@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header>
-      <h1>Header Component</h1>
+      <h1>MyFy Task - Header Component</h1>
       <p>Reusable within your Next.js Projects</p>
       <nav>
         <ul>
