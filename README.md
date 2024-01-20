@@ -39,7 +39,7 @@ export default YourPage;
 
 Below you see two projects I quickly made in Next.js 14 that use my header component:
 
-![project 1](./Screen Shot 2024-01-20 at 1.41.38 AM.png)
+![project 1](./Screen-Shot1.png)
 
 
 
