@@ -5,9 +5,9 @@
   "main": "Header.js",
   "style": "Header.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
-  "keywords": ["next.js", "react", "header"],
-  "author": "Your Name",
-  "license": "MIT"
+  "keywords": [],
+  "author": "Arya Patel",
+  "license": ""
 }
