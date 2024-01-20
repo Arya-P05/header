@@ -1,5 +1,3 @@
-/* Header.css */
-
 header {
   background: linear-gradient(to right, #4e54c8, #8f94fb);
   color: white;
@@ -13,15 +11,11 @@ h1 {
   margin: 0;
 }
 
-nav {
-  display: flex;
-  align-items: center;
-}
-
 nav ul {
   list-style: none;
   padding: 0;
   display: flex;
+  justify-content: center;
 }
 
 nav li {
