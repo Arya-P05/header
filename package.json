@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple header component for Next.js projects",
   "main": "Header.js",
+  "style": "Header.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
