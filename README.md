@@ -39,8 +39,10 @@ export default YourPage;
 
 Below you see two projects I quickly made in Next.js 14 that use my header component:
 
-![project 1](./Screen-Shot1.png)
+![project 1](./Screen-Shot1-with-hover-glow-nav.png)
 ![project 1](./Screen-Shot2.png)
+
+Although it looks like i only changed the number, I did infact make the two seperate projects to insure I can intall this component as a github package and instantly use it within my applications. :)
 
 
 
