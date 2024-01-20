@@ -1,2 +1,12 @@
-// components/index.js
-export { default as Header } from './H';
+{
+  "name": "my-next-header",
+  "version": "1.0.0",
+  "description": "A simple header component for Next.js projects",
+  "main": "Header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["next.js", "react", "header"],
+  "author": "Your Name",
+  "license": "MIT"
+}
