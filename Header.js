@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header>
-      <h1>MyFy Task - Reusable Header Component | Arya Patel</h1>
+      <h1>MyFy Task | Reusable Header Component</h1>
       <nav>
         <ul>
           <li><a href="/">Home</a></li>
