@@ -1,26 +1,18 @@
-import Link from 'next/link';
+// components/Header.js
 
 const Header = () => {
   return (
     <header style={headerStyle}>
       <div style={logoStyle}>
-        <Link href="/">
-          <a style={linkStyle}>
-            <img src="/logo.png" alt="Logo" style={logoImgStyle} />
-            My Next.js Project
-          </a>
-        </Link>
+        <a href="/">
+          <img src="/logo.png" alt="Logo" style={logoImgStyle} />
+          My Next.js Project
+        </a>
       </div>
       <nav style={navStyle}>
-        <Link href="/">
-          <a style={linkStyle}>Home</a>
-        </Link>
-        <Link href="/about">
-          <a style={linkStyle}>About</a>
-        </Link>
-        <Link href="/contact">
-          <a style={linkStyle}>Contact</a>
-        </Link>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
       </nav>
     </header>
   );
