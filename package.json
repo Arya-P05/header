@@ -8,7 +8,7 @@
   },
   "keywords": ["next.js", "react", "header"],
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "styled-components": "^5.3.0"
   }
